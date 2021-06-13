@@ -1,1 +1,1 @@
-# vanillaJsBlog
+# simpleHTMLandCSSBlog
